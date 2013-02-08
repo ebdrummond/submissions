@@ -9,7 +9,7 @@ Add the "live" URL for your class blog.
 * Blair Anderson:
 * Paul Blackwell: 
 * Phil Battos: 
-* Erin Drummond: 
+* Erin Drummond: http://ebdrummond.com/
 * James Denman: 
 * Jennifer Eliuk: 
 * Danny Garcia: 
