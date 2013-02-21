@@ -53,5 +53,5 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Shane Rogers & Erin Drummond
-  * Project URL: 
+  * Project URL: git://github.com/ebdrummond/sales_engine.git
   * Extensions: 
